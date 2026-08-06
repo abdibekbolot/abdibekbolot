@@ -22,21 +22,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdibekbolot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&hide=issues,contribs" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/neofetch.svg" alt="neofetch" />
-</p> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/bomberman-contribution-graph.svg">
-</picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph-dark.svg">
