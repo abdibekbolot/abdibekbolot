@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1F6FEB&height=170&section=header&text=01000010%2001000101%2001001011&fontSize=28&fontColor=E6EDF3&fontAlignY=42&desc=Bekbolot%20Abdilazhanov%20%C2%B7%20Backend%20%2F%20Systems&descSize=16&descAlignY=64" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=still+figuring+that+out;segmentation+fault;a+very+confident+guess;ci+is+red%2C+my+heart+is+redder;pushing+to+main%2C+pray+for+me" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="terminal" width="780" />
+  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="bek@github" width="780" />
 </p>
 
 ---
