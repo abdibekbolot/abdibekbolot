@@ -22,11 +22,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdibekbolot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&hide=issues,contribs" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/contrib.svg" alt="contributions" />
+</p>
 
 ---
 

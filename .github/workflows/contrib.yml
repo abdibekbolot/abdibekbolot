@@ -1,0 +1,33 @@
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: "17 3 * * *"    # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contrib.svg
+        env:
+          # PAT with read:user scope, stored as a repo secret.
+          # Falls back to GITHUB_TOKEN, which only sees PUBLIC contributions.
+          GH_TOKEN: ${{ secrets.CONTRIB_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: abdibekbolot
+          OUT: contrib.svg
+        run: python3 scripts/gen_contrib.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contrib.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution graph"
+          git push
