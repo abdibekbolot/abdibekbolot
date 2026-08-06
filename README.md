@@ -2,21 +2,6 @@
   <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="bek@github" width="780" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/NGINX-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=58A6FF" />
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph-dark.svg">
