@@ -18,10 +18,6 @@
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdibekbolot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&hide=issues,contribs" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph.svg">
