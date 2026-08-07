@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="bek@github" width="780" />
+  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="abdbibekbolot@github" width="780" />
 </p>
 
 
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <sub>most work lives in private org repos · ask me about the architecture</sub>
+  <sub>heh</sub>
   <br/>
   <a href="mailto:abdibekbolot@gmail.com"><img src="https://img.shields.io/badge/-abdibekbolot@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
 </p>
