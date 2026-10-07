@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/main/terminal.svg" alt="abdbibekbolot@github" width="780" />
-</p>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdibekbolot/abdibekbolot/output/galaga-contribution-graph.svg">
